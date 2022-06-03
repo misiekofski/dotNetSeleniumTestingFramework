@@ -6,5 +6,9 @@ namespace dotNetSeleniumTestingFramework.Pages
 {
     public class BingHomePage
     {
+        internal void SearchForText(string p0)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

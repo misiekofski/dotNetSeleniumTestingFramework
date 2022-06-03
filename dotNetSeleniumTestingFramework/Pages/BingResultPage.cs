@@ -6,5 +6,9 @@ namespace dotNetSeleniumTestingFramework.Pages
 {
     public class BingResultPage
     {
+        internal List<string> GetFirstThreeResults()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
