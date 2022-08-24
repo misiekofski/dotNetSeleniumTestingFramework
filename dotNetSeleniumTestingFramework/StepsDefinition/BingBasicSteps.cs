@@ -8,7 +8,7 @@ namespace dotNetSeleniumTestingFramework.StepsDefinition
     [Binding]
     public class BingBasicSteps
     {
-        [Given(@"User is on bing\.com webpage")]
+        [Given(@"User is on bing.com webpage")]
         public void GivenUserIsOnBing_ComWebpage()
         {
             Driver.Instance.Url = "https://www.bing.com";

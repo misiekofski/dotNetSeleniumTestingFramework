@@ -8,7 +8,7 @@ namespace dotNetSeleniumTestingFramework.Pages
     {
         internal List<string> GetFirstThreeResults()
         {
-            throw new NotImplementedException();
+            return new List<string>();
         }
     }
 }
